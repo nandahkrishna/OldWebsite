@@ -1,5 +1,6 @@
 ---
 title: "Search"
+permalink: /search/
 excerpt: "Search this website."
 sitemap: false
 ---
