@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Available as a PDF: [View](../Nanda_H_Krishna_Resume.pdf")
+Available as a PDF: [View](https://nandahkrishna.me/Nanda_H_Krishna_Resume.pdf")
 
 Education
 ======
