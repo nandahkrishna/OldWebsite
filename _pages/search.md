@@ -1,11 +1,10 @@
 ---
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
+title: "Search"
+excerpt: "Search this website."
 sitemap: false
 permalink: /404.html
 ---
 
-# Search
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
