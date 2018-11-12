@@ -3,8 +3,8 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
+<br>
 
+I'd be glad to hear from you. Here are some ways to contact me and places where you can find me:
 
-I'd be glad to hear from you. Feel free to contact me using any of these ways:
-
-* Email: <nanda.harishankar@gmail.com>
+* Email: <u><a href="mailto:nanda.harishankar@gmail.com">nanda.harishankar@gmail.com</a></u>
