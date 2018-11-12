@@ -2,6 +2,7 @@
 title: "Search"
 excerpt: "Search this website."
 sitemap: false
+permalink: /search.html
 ---
 
 
