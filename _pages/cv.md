@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Available as a PDF: <a href="nandahkrishna.me/Nanda_H_Krishna_Resume.pdf">View</a>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
