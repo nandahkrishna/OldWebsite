@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Available as a PDF: <a href="../blob/master/Nanda_H_Krishna_Resume.pdf">View</a>
+Available as a PDF: <a href="../Nanda_H_Krishna_Resume.pdf">View</a>
 
 Education
 ======
