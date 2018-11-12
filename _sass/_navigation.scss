@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: #00c3e3;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -327,7 +327,7 @@
 
     &:hover {
       text-decoration: underline;
-      text-decoration-color: #FFFFFF;
+      text-decoration-color: #00c3e3;
     }
   }
 
