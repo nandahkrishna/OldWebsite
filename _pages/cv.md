@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[commit list](https://github.com/academicpages/academicpages.github.io/commits/master)
 
 Education
 ======
