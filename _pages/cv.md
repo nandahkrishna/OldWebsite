@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[commit list](https://github.com/academicpages/academicpages.github.io/commits/master)
+<u><a href="../Nanda_H_Krishna_Resume.pdf">PDF Version</a></u>
 
 Education
 ======
