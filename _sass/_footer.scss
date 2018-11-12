@@ -21,7 +21,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: #989898;
-  border-top: 1px solid #797979;
+  border-top: 1px solid #414548;
 
   footer {
     @include clearfix;
@@ -37,7 +37,7 @@
   }
 
   a {
-    color: inherit;
+    color: #414548;
     text-decoration: none;
 
     &:hover {
@@ -56,6 +56,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  color: #414548;
 }
 
 .page__footer-follow {
