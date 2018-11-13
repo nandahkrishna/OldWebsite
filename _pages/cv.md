@@ -10,24 +10,22 @@ redirect_from:
 {% include base_path %}
 <br>
   <a href="../Nanda_H_Krishna_Resume.pdf" target="_blank">PDF Version</a>
-  
+
 Education
 ======
 * Vidya Mandir Senior Secondary School, 2003 - 2017
 * B.E. Computer Science and Engineering<br>SSN College of Engineering (Anna University), 2017 - 2021
-
+<!--
 Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -36,25 +34,22 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
