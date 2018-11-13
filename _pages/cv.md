@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 <br>
-  <a href="../Nanda_H_Krishna_Resume.pdf">PDF Version</a>
-
+  <a href="../Nanda_H_Krishna_Resume.pdf" target="_blank">PDF Version</a>
+  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* Vidya Mandir Senior Secondary School, 2003 - 2017
+* B.E. Computer Science and Engineering<br>SSN College of Engineering (Anna University), 2017 - 2021
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+```
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -59,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+```
