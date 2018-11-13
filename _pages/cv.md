@@ -15,8 +15,7 @@ Education
 ======
 * Vidya Mandir Senior Secondary School, 2003 - 2017
 * B.E. Computer Science and Engineering<br>SSN College of Engineering (Anna University), 2017 - 2021
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-```
+
 Experience
 ======
 * Summer 2015: Research Assistant
@@ -59,4 +58,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-```
