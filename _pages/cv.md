@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br>
-  [PDF Version](../Nanda_H_Krishna_Resume.pdf)
+  <a href="../Nanda_H_Krishna_Resume.pdf">PDF Version</a>
 
 Education
 ======
