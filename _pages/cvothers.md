@@ -1,3 +1,7 @@
+---
+sitemap: false
+---
+
 Experience
 ======
 * Summer 2015: Research Assistant
