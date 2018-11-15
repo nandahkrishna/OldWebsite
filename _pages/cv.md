@@ -57,10 +57,10 @@ Projects
 * AIko - Natural Language Assistant: Oct. 2018 - Nov. 2018<br>
   A natural language assistant written in Java that can carry out casual conversations, open applications, perform mathematical calculations and retrieve information; also learnt basics of DialogFlow and OpenNLP
   
-* Pokemon Go on Arduino: Jul. 2018
+* Pokemon Go on Arduino: Jul. 2018<br>
   Developed a simple version of Pokemon Go using Arduino and IMU sensor
   
-* brOS - Suite of Applications: Oct. 2016 - Dec. 2016
+* brOS - Suite of Applications: Oct. 2016 - Dec. 2016<br>
   A suite of applications coded in C++, developed for the Class 12 Computer Science Project which contains 4 applications (Clock, Calendar, Calculator, Notepad) and 4 games, and a customisable UI; won the Best Project in Computer Science Award
   
 Courses
