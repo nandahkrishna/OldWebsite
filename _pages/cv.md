@@ -87,10 +87,10 @@ Achievements
 
 * Qualified for higher levels of AMTI and RMO Mathematics Olympiads
 
+Memberships
+=====
+Association for Computing Machinery
+
 Languages
 =====
 English, Tamil, Hindi, Sanskrit, Japanese, Korean, German
-
-Hobbies and Interests
-=====
-Competitive Programming, Quizzing, Language Learning, Writing and Poetry, Theatre (Acting), Music, Manga and Anime
