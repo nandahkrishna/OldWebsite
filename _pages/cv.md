@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br>
-  <a href="../NandaHKrishna_CV.pdf" target="_blank">PDF Version</a>
+  <a href="github.com/nandahkrishna/nandahkrishna.github.io/blob/master/NandaHKrishna_CV.pdf" target="_blank">PDF Version</a>
 
 Education
 ======
