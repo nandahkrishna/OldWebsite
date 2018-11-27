@@ -5,5 +5,5 @@ collection: portfolio
 ---
 <br>
 I was part of a team working on an industrial project on automatic wheel alignment. Stereo images of wheels were provided, and the goal was to develop a program that calculated the distance of the wheel's center from the cameras and the wheel's angles of tilt. The program was written in C++ and OpenCV was used for image processing techniques.
-Current status: Working on distance and angle calculation.<br>
+Current status: Working on distance and angle calculation.<br><br>
 <img src='/images/500x300.png'>
