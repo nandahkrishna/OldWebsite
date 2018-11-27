@@ -1,6 +1,6 @@
 ---
 title: "Wheel Alignment"
-excerpt: "A project built using OpenCV and C++ for calculation of distance and angles of tilt of a wheel.<br/><!--<img src='/images/.png'>"-->
+excerpt: "A project built using OpenCV and C++ for calculation of distance and angles of tilt of a wheel.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
