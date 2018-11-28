@@ -1,7 +1,7 @@
 {
 	"name": "Minimal Mistakes",
 	"icons": [
-		{
+	/*	{
 			"src": "\/images\/android-chrome-36x36.png?v=M44lzPylqQ",
 			"sizes": "36x36",
 			"type": "image\/png",
@@ -30,7 +30,7 @@
 			"sizes": "144x144",
 			"type": "image\/png",
 			"density": 3
-		},
+		},		*/
 		{
 			"src": "\/images\/android-chrome-192x192.png?v=M44lzPylqQ",
 			"sizes": "192x192",
