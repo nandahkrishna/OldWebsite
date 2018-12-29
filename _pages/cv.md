@@ -24,7 +24,7 @@ Education
 Experience
 ======
 * Solarillion Foundation: Oct. 2018 - Present
-  * Research Trainee
+  * Undergraduate Research Trainee
   * Machine Learning
 
 Skills
@@ -46,11 +46,8 @@ Skills
 Projects
 ======
 * Whack-AR: Dec. 2018<br>
-  An AR game built using Kotlin for Android, using ARCore and Sceneform at the MLH Local Hack Day 2018. Won an award for being a top team at the hackathon.
+  An AR game built using Kotlin for Android, using ARCore and Sceneform at the MLH Local Hack Day 2018. Won an award for being a top team at the hackathon
 
-* <a href="github.com/nandahkrishna/CAPTCHASolver">CAPTCHA Solver for University Website</a>: Nov. 2018 - Present<br>
-  A CAPTCHA solver for the Anna University portal
-  
 * Flight Delay Prediction using Machine Learning: Nov. 2018 - Present<br>
   A machine learning based approach to predict flight delay based on various factors
   
