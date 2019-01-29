@@ -24,8 +24,8 @@ Education
 Experience
 ======
 * Solarillion Foundation: Oct. 2018 - Present
-  * Undergraduate Research Trainee
-  * Machine Learning
+  * Undergraduate Research Assistant
+  * Machine Learning Group
 
 Skills
 ======
@@ -36,50 +36,46 @@ Skills
   * C++
   * Python
   * Java
+  * MATLAB
 * Web and Android Development
-* Git
-* TensorFlow
-* MATLAB
 * Arduino
 * Raspberry Pi
 
 Projects
 ======
-* Whack-AR: Dec. 2018<br>
-  An AR game built using Kotlin for Android, using ARCore and Sceneform at the MLH Local Hack Day 2018. Won an award for being a top team at the hackathon
+* Movie Lifetime Prediction: Jan. 2019 - Present<br>
+  Working on movie lifetime prediction using machine learning based on transactional data from a top multiplex in Chennai.
 
-* Flight Delay Prediction using Machine Learning: Nov. 2018 - Present<br>
-  A machine learning based approach to predict flight delay based on various factors
-  
 * Measurement of Wheel Distance and Angles using Images: Aug. 2018 - Present<br>
-  An industrial project to measure the distance and angles of tilt of a wheel from stereo images, using OpenCV and C++
- 
-* AIko - Natural Language Assistant: Oct. 2018 - Nov. 2018<br>
-  A natural language assistant written in Java that can carry out casual conversations, open applications, perform mathematical calculations and retrieve information; also learnt basics of DialogFlow and OpenNLP
+  An industrial project to measure the distance and angles of tilt of a wheel from stereo images, using OpenCV and C++.
   
+* Flight Delay Prediction using Machine Learning: Nov. 2018 - Jan. 2019<br>
+  A machine learning based approach to predict flight delay based on historical flight performance data and weather data.
+  
+* WhacAR: Dec. 2018<br>
+  An AR game built using Kotlin for Android, using ARCore and Sceneform at the MLH Local Hack Day 2018; won an award for being a top team at the hackathon.
+
 * Pokemon Go on Arduino: Jul. 2018<br>
-  Developed a simple version of Pokemon Go using Arduino and IMU sensor
+  Developed a simple version of Pokemon Go using Arduino and IMU sensor.
   
 * brOS - Suite of Applications: Oct. 2016 - Dec. 2016<br>
-  A suite of applications coded in C++, developed for the Class 12 Computer Science Project which contains 4 applications (Clock, Calendar, Calculator, Notepad) and 4 games, and a customisable UI; won the Best Project in Computer Science Award
+  A suite of applications coded in C++, developed for the Class 12 Computer Science Project; contains 4 applications (Clock, Calendar, Calculator, Notepad) and 4 games, and a customisable UI; won the Best Project in Computer Science Award.
   
 Courses
 ======
-* Machine Learning by Stanford University (Coursera): Nov. 2018 - Present
+* Machine Learning by Stanford University (Coursera): Dec. 2018 - Present
 
-* Python for Data Science by UC San Diego (edX): Oct. 2018 - Present
+* Python for Data Science by UC San Diego (edX): Oct. 2018 - Dec. 2018
 
 * Machine Learning Crash Course by Google AI: Sep. 2018 - Oct. 2018
 
-* University Courses: Python Programming, C Programming, Mathematics - I and II, Discrete Mathematics, Data Structures, Object Oriented Programming, Digital Principles and System Design
-
-* Embedded Software Development Workshop at SSN: Worked with Arduino and Raspberry Pi, used NodeMCU, IMU, Servo motors and other components; developed an Arduino based version of Pokemon Go
+* University Courses: Python Programming, C Programming, Mathematics - I and II, Discrete Mathematics, Probability and Queueing Theory, Data Structures, Object Oriented Programming, Design and Analysis of Algorithms, Digital Principles and System Design, Operating Systems, Computer Architecture, Database Management Systems
 
 Achievements
 ======
-* Top team at the MLH Local Hack Day 2018 organized by Build2Learn in Chennai
-
 * Merit Scholarship for Rank 1 in CSE Department for Semesters 1 & 2
+
+* Top team at the MLH Local Hack Day 2018 organized by Build2Learn in Chennai
 
 * Honorable Mention in ACM ICPC 2017
 
@@ -87,11 +83,11 @@ Achievements
 
 * Award for Best Project in Computer Science in Class 12
 
-* Qualified for higher levels of AMTI and RMO Mathematics Olympiads
-
 Memberships
 =====
-Association for Computing Machinery
+* ACM - Student Member
+
+* IEEE - Student Member
 
 Languages
 =====
