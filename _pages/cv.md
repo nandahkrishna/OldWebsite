@@ -30,6 +30,7 @@ Experience
 Skills
 ======
 * Machine Learning
+* Image Processing
 * OpenCV
 * Programming Languages:
   * C
@@ -69,7 +70,7 @@ Courses
 
 * Machine Learning Crash Course by Google AI: Sep. 2018 - Oct. 2018
 
-* University Courses: Python Programming, C Programming, Mathematics - I and II, Discrete Mathematics, Probability and Queueing Theory, Data Structures, Object Oriented Programming, Design and Analysis of Algorithms, Digital Principles and System Design, Operating Systems, Computer Architecture, Database Management Systems
+* University Courses: Python Programming, C Programming, Mathematics - I and II, Discrete Mathematics, Probability and Queuing Theory, Data Structures, Object Oriented Programming, Design and Analysis of Algorithms, Digital Principles and System Design, Computer Architecture, Operating Systems, Database Management Systems
 
 Achievements
 ======
