@@ -142,6 +142,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - markdown_generator
 keep_files:
   - .git
   - .svn
