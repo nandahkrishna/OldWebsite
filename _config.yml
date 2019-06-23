@@ -10,7 +10,7 @@ locale                   : "en-IN"
 title                    : "Nanda H Krishna"
 title_separator          : "-"
 name                     : &name "Nanda H Krishna"
-description              : &description "Programmer. Linguist. Japanophile. Quizzer. Theatre artist. Bathroom singer. Foodie."
+description              : &description "Computer Science Undergraduate interested in Machine Learning, Computer Vision and Applied CS."
 url                      : https://nandahkrishna.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nandahkrishna/nandahkrishna.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nanda H Krishna"
   avatar           : "profile.png?v"
-  bio              : "Undergraduate student of Computer Science and Engineering, interested in ML, AI and Vision. Linguist and passionate quizzer, theatre actor, bathroom singer and foodie. Self proclaimed Japanophile."
+  bio              : "Computer Science Undergraduate interested in Machine Learning, Computer Vision and Applied CS."
   location         : "Chennai, India"
   employer         :
   googlescholar    :
@@ -96,14 +96,14 @@ author:
   foursquare       :
   github           : "nandahkrishna"
   google_plus      :
-  keybase          :
+  keybase          : "nandahkrishna"
   instagram        :
   lastfm           :
   linkedin         : "nandahkrishna"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/8736372/nanda-h-krishna
   steam            :
   tumblr           :
   twitter          : "@NandaHKrishna"
