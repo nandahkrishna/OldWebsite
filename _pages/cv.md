@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 <br>
-  <a href="https://nandahkrishna.me/NandaHKrishna_CV.pdf" target="_blank">PDF Version</a>
+  <a href="https://nandahkrishna.com/NandaHKrishna_CV.pdf" target="_blank">PDF Version</a>
 
 Education
 ======
 * B.E. Computer Science and Engineering<br>
-  SSN College of Engineering (Anna University), GPA 9.62<br>
+  SSN College of Engineering (Anna University), GPA 9.3<br>
   2017 - 2021
   
 * High School: Computer Science<br>
